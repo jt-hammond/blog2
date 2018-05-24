@@ -4,7 +4,8 @@
   "dependencies": {
     "@rails/webpacker": "3.5",
     "bootstrap": "3",
-    "jquery": "^3.3.1"
+    "jquery": "^3.3.1",
+    "trumbowyg": "^2.10.0"
   },
   "devDependencies": {
     "stylelint-webpack-plugin": "^0.10.4",

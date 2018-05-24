@@ -5623,6 +5623,10 @@ trim-right@^1.0.1:
   dependencies:
     glob "^6.0.4"
 
+trumbowyg@^2.10.0:
+  version "2.10.0"
+  resolved "https://registry.yarnpkg.com/trumbowyg/-/trumbowyg-2.10.0.tgz#e74682528b07c36c78bcc341ea57bebffd565727"
+
 tty-browserify@0.0.0:
   version "0.0.0"
   resolved "https://registry.yarnpkg.com/tty-browserify/-/tty-browserify-0.0.0.tgz#a157ba402da24e9bf957f9aa69d524eed42901a6"
